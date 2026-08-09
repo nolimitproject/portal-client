@@ -8,6 +8,6 @@ const CONFIG_APP = {
     namaVendor: "No Limit Photo Cinema",
 
     // 2. Google Drive API Key (Penting agar galeri bisa memuat foto)
-    googleApiKey: "AIzaSyAZczbLeVTXl-QKqLDJFWQLCd-lW9jqqxo",
+    googleApiKey: "AIzaSyAkLHGPlLx5AT2Q2tdI3-yj9sP2QltC-H0",
     whatsappAdmin: "6282134373615" // <-- TAMBAHKAN BARIS INI (Ganti dengan nomor WA admin)
 };
